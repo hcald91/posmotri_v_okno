@@ -1,1 +1,1 @@
-https://github.com/hcald91/posmotri_v_okno
+https://github.com/hcald91/posmotri-v-okno-fd
